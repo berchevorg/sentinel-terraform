@@ -1,3 +1,3 @@
-policy "./sentinel/sunny-day" {
+policy "sunny-day" {
     enforcement_level = "soft-mandatory"
 }
